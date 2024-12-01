@@ -5,9 +5,13 @@ This portfolio is designed and developed using HTML, CSS, and JavaScript, showca
 
 # Features
 ✅ Responsive Design: Fully optimized for viewing across devices, including desktops, tablets, and mobiles.
+
 ✅ Dynamic User Interface: Leveraging JavaScript to add interactive elements and enhance user experience.
+
 ✅ Projects Showcase: Highlights my key projects with descriptions and links to GitHub repositories.
+
 ✅ Skills Section: Displays my technical skills, including HTML, CSS, JavaScript, Angular, Java, MySQL, and more.
+
 ✅ Contact Form: Enables visitors to connect with me directly via email or other platforms.
 
 # Purpose
@@ -17,4 +21,5 @@ This portfolio is a representation of my dedication to software development and 
 * Adding animations and transitions using CSS3 
 * Integrating a blog section to share development experiences and tips.
 * Enhancing project details with live demos.
+  
 ✅ Check out my portfolio and feel free to reach out for opportunities or collaborations! 🌟
